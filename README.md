@@ -1,6 +1,6 @@
 # TAE-COLA / 태우의 코딩 라이프🐳
 
-![KakaoTalk_20220901_133259880-1jpg.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/55cec86b-4955-4643-96b6-cf90b166a6e5/KakaoTalk_20220901_133259880-1jpg.jpg)
+![김태우](https://user-images.githubusercontent.com/69046742/187909718-34f0dda7-17ca-4235-b57e-a68e135b05ae.jpg)
 
 ### 🕊️Email
 
