@@ -1,6 +1,6 @@
 # TAE-COLA / 태우의 코딩 라이프🐳
 
-<img src="https://user-images.githubusercontent.com/69046742/187909718-34f0dda7-17ca-4235-b57e-a68e135b05ae.jpg" width="200"/>
+<img src="https://user-images.githubusercontent.com/69046742/187909718-34f0dda7-17ca-4235-b57e-a68e135b05ae.jpg" width="400"/>
 
 ### 🕊️Email
 
