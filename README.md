@@ -2,6 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/69046742/187909718-34f0dda7-17ca-4235-b57e-a68e135b05ae.jpg" width="400"/>
 
+> 컴퓨터의 말을 잘 듣는 프로그래머가 되자 !😆
+> 
+
 ### 🕊️Email
 
 woo4735@naver.com
@@ -17,9 +20,6 @@ woo4735@naver.com
 ### 🐇Instagram
 
 [https://www.instagram.com/love.rain_00](instagram.com/love.rain_00/)
-
-> 컴퓨터의 말을 잘 듣는 프로그래머가 되자 !😆
-> 
 
 ### 📱 Android App Developer
 
