@@ -13,9 +13,9 @@ woo4735@naver.com
 
 [https://blog.naver.com/woo4735](https://blog.naver.com/woo4735)
 
-### 👾Github
+### 🐤Notion
 
-[https://github.com/LULLULALLA0525](https://github.com/LULLULALLA0525/LULLULALLA0525)
+[https://www.notion.so/TAE-COLA](https://www.notion.so/TAE-COLA-05ee5631790d4f43a2c1ed3f64ec3fd5)
 
 ### 🐇Instagram
 
@@ -70,10 +70,6 @@ Kotlin에서 지향하는 함수형 프로그래밍에 대해서 알고 있습�
 ### Git
 
 Git을 활용한 소스코드 버전 관리 및 협업을 할 수 있습니다.
-
----
-
-[📒 Projects](https://www.notion.so/6ab6ae31535a4d569562ce64ab8364a7)
 
 ---
 
