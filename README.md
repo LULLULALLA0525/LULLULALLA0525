@@ -1,6 +1,6 @@
 # TAE-COLA / 태우의 코딩 라이프🐳
 
-<img src="https://user-images.githubusercontent.com/69046742/187909718-34f0dda7-17ca-4235-b57e-a68e135b05ae.jpg" width="400"/>
+<img src="https://user-images.githubusercontent.com/69046742/190885457-0697f755-b03d-4d9e-82fd-cef2966aa5a2.jpg" width="400"/>
 
 > 컴퓨터의 말을 잘 듣는 프로그래머가 되자 !😆
 > 
