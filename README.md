@@ -74,11 +74,11 @@ Git을 활용한 소스코드 버전 관리 및 협업을 할 수 있습니다.
 ---
 
 ## 👟 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=activedg&hide=stars,issues&show_icons=true&theme=radical)
+![Taewoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=woo4735&hide=stars,issues&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=activedg&layout=compact&theme=radical&exclude_repo=Algorithm_03,SupWay)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woo4735&layout=compact&theme=radical&exclude_repo=Algorithm_03,SupWay)](https://github.com/woo4735/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nerw173)](https://solved.ac/nerw173/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woo4735)](https://solved.ac/woo4735/)
 
 ---
 
