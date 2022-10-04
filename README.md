@@ -29,7 +29,7 @@ woo4735@naver.com
 
 ---
 
-## 🛠️ Teck Stack
+## 🛠️ Tech Stack
 
 `C++` `Java` `Python` `Javascript` `Kotlin`
 
