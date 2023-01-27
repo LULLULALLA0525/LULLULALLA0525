@@ -1,6 +1,6 @@
 # TAE-COLA / 태우의 코딩 라이프🐳
 
-<img src="https://user-images.githubusercontent.com/69046742/190885457-0697f755-b03d-4d9e-82fd-cef2966aa5a2.jpg" width="400"/>
+<img src="https://user-images.githubusercontent.com/69046742/190885457-0697f755-b03d-4d9e-82fd-cef2966aa5a2.jpg" width="360"/>
 
 > 컴퓨터의 말을 잘 듣는 프로그래머가 되자 !😆
 > 
@@ -31,45 +31,42 @@ woo4735@naver.com
 
 ## 🛠️ Tech Stack
 
-`C++` `Java` `Python` `Javascript` `Kotlin`
-
-### C++
-
-C++에서 지향하는 객체지향 프로그래밍에 대해서 알고 있습니다.
+ `Java` `Python` `Kotlin` `Flutter` `Figma` `Git&Github` `Notion` `Discord`
 
 ### Java
 
-Java를 활용하여 MVC Arcitecture의 프로그램 개발 경험이 있습니다.
-
-Java에서 지향하는 객체지향 프로그래밍에 대해서 알고 있습니다.
-
-Java에서 제공하는 여러가지 클래스와 메서드를 적절히 활용할 수 있습니다.
+- Java를 활용한 MVC Arcitecture 프로그램 개발 경험이 있습니다.
+- Java에서 지향하는 객체지향 프로그래밍에 대해서 알고 있습니다.
+- Java에서 제공하는 여러가지 클래스와 메서드를 적절히 활용할 수 있습니다.
 
 ### Python
 
-Python을 활용하여 알고리즘 문제를 해결하기 위한 프로그램을 구현할 수 있습니다.
-
-numpy와 matplotlib 등의 라이브러리를 활용하여 간단한 딥러닝 모델 실습을 진행한 경험이 있습니다.
-
-### HTML, CSS, Javascript
-
-HTML, CSS를 활용하여 간단한 웹 화면을 구현할 수 있습니다.
-
-개인 블로그에서 Javascript의 상세한 개념을 정리하고 있습니다.
-
-Javascript에서 지향하는 함수형 프로그래밍에 대해서 알고 있습니다.
+- Python을 활용하여 알고리즘 문제를 해결하기 위한 프로그램을 구현할 수 있습니다.
+- numpy와 pandas, matplotlib 등의 라이브러리를 활용하여 머신러닝 모델 실습을 진행한 경험이 있습니다.
 
 ### Kotlin
 
-Kotlin을 활용하여 Android 앱을 개발한 경험이 있습니다.
+- Kotlin을 활용하여 Android 앱을 개발한 경험이 있습니다.
+- Retrofit2, Coroutine, Oauth의 개념을 파악하고, 이를 활용하여 앱을 개발한 경험이 있습니다.
+- Clean Architecture와 MVVM의 아키텍처 패턴을 적용하여 앱을 개발한 경험이 있습니다.
 
-개인 블로그에서 Kotlin의 상세한 개념을 정리하고 있습니다.
+### Flutter
 
-Kotlin에서 지향하는 함수형 프로그래밍에 대해서 알고 있습니다.
+- Flutter를 활용하여 Android 앱을 개발한 경험이 있습니다.
+- Firebase와 AWS 서버를 연동하여 Retrofit2를 활용한 서버 통신 어플리케이션을 개발한 경험이 있습니다.
+- MVC 아키텍처 패턴을 적용하여 앱을 개발한 경험이 있습니다.
 
-### Git
+### Figma
 
-Git을 활용한 소스코드 버전 관리 및 협업을 할 수 있습니다.
+- Component, Auto Layout 등 여러가지 기능들을 활용하여 사용자의 편의를 고려한 앱 UI/UX 디자인을 한 경험이 있습니다.
+
+### Git&Github
+
+- Git과 Github를 활용한 소스코드 버전 관리 및 협업을 진행하였으며, 팀 프로젝트의 협업 과정에서 발생하는 여러가지 문제들을 해결한 경험이 있습니다.
+
+### Notion & Discord
+
+- 이력서를 작성하거나 학습한 내용을 정리하고, 팀 프로젝트를 진행하면서 다양한 커뮤니티 툴을 사용해본 경험이 있습니다.
 
 ---
 
