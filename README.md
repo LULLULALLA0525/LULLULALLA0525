@@ -73,8 +73,6 @@ woo4735@naver.com
 ## 👟 Stats
 ![Taewoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TAE-COLA&hide=stars,issues&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAE-COLA&layout=compact&theme=radical)](https://github.com/TAE-COLA/github-readme-stats)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woo4735)](https://solved.ac/woo4735/)
 
 ---
