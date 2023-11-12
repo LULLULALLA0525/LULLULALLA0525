@@ -49,12 +49,18 @@ woo4735@naver.com
 - Kotlin을 활용하여 Android 앱을 개발한 경험이 있습니다.
 - Retrofit2, Coroutine, Oauth의 개념을 파악하고, 이를 활용하여 앱을 개발한 경험이 있습니다.
 - Clean Architecture와 MVVM의 아키텍처 패턴을 적용하여 앱을 개발한 경험이 있습니다.
+- Kotlin Compose를 활용함에 있어 MVI 패턴을 사용해서 상태를 효율적으로 활용한 경험이 있습니다.
 
 ### Flutter
 
 - Flutter를 활용하여 Android 앱을 개발한 경험이 있습니다.
 - Firebase와 AWS 서버를 연동하여 Retrofit2를 활용한 서버 통신 어플리케이션을 개발한 경험이 있습니다.
 - MVC 아키텍처 패턴을 적용하여 앱을 개발한 경험이 있습니다.
+
+### Javascript & SvelteKit
+- SvelteKit을 활용하여 Web 프로젝트를 진행한 경험이 있습니다.
+- Supabase와 연동하여 query문을 활용한 서버 통신 웹 어플리케이션을 개발한 경험이 있습니다.
+- TailwindCSS, DaisyUI, HeroIcons 등 여러가지 라이브러리를 활용하여 높은 가독성와 유지보수성의 코드를 작성하는 방식을 학습했습니다.
 
 ### Figma
 
@@ -68,6 +74,48 @@ woo4735@naver.com
 
 - 이력서를 작성하거나 학습한 내용을 정리하고, 팀 프로젝트를 진행하면서 다양한 커뮤니티 툴을 사용해본 경험이 있습니다.
 
+### Microsoft Teams & Slack
+
+- 팀 프로젝트를 진행함에 있어 소통을 위한 다양한 커뮤니티 툴을 사용해본 경험이 있습니다.
+
+---
+## 💻 Work Experience.
+- 민트기술(주) *2023.03 ~*
+
+### 펀딩 플레이(Funding Play)
+
+*영화, 전시회, 공연과 같은 문화 상품에 대한 펀딩 사이트*
+
+- SvelteKit과 Supabase를 활용한 웹 사이트 개발 및 컴포넌트 개발
+- TailwindCSS, DaisyUI, Hero-Icons 등의 라이브러리를 활용하여 높은 가독성와 유지보수성의 코드 작성
+
+### 현대 ITC 총무 포탈
+
+*현대 ITC의 관리자 및 근무자가 활용할 수 있는 포탈 사이트*
+
+- SvelteKit과 Supabase를 활용한 웹 사이트 개발 및 컴포넌트 개발
+- 고연령층 사용자들을 대비하여 직관적인 UI/UX 디자인 및 개발
+
+### RMR
+
+*연세대학교 건설환경공학 연구소의 터널 공사용 암석 품질 측정 어플리케이션*
+
+- Kotlin Compose를 활용한 Android 앱 개발
+- MVI 패턴을 활용하여 개발
+- 사진 촬영 기능 및 업로드 기능
+- 고연령층 현장직 사용자들을 대비한 직관적이고 편리한 UI/UX 디자인 및 개발
+
+### THOME
+
+*ATHOME의 제품 사용 도우미 및 피부 관리 컨설팅 앱*
+
+- Kotlin Compose를 활용한 Android 앱 개발
+- MVI 패턴을 활용하여 개발
+
+---
+## 🏆 Awards.
+
+### **UMC 앱 런칭 대회 대상 - [푸름](https://www.notion.so/7e2de1f42a304bd1a6f6a26930fd197e?pvs=21)**
 ---
 
 ## 👟 Stats
@@ -81,4 +129,4 @@ woo4735@naver.com
 
 **중앙대학교 소프트웨어학부**
 
-2018.03 ~ 재학 중
+2018.03 ~ 재학 중 (2024.02 졸업예정)
