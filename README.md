@@ -29,9 +29,11 @@ woo4735@naver.com
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
- `Java` `Python` `Kotlin` `Flutter` `Figma` `Git&Github` `Notion` `Discord`
+|**Languages**|**Tools & Communicate**|
+|---|---|
+|`Java` `Python` `Kotlin` `Flutter` `Javascript&Svelte`|`Figma` `Git&Github&Gitlab` `Notion` `Discord` `Microsoft Teams&Slack`|
 
 ### Java
 
@@ -58,6 +60,7 @@ woo4735@naver.com
 - MVC 아키텍처 패턴을 적용하여 앱을 개발한 경험이 있습니다.
 
 ### Javascript & SvelteKit
+
 - SvelteKit을 활용하여 Web 프로젝트를 진행한 경험이 있습니다.
 - Supabase와 연동하여 query문을 활용한 서버 통신 웹 어플리케이션을 개발한 경험이 있습니다.
 - TailwindCSS, DaisyUI, HeroIcons 등 여러가지 라이브러리를 활용하여 높은 가독성와 유지보수성의 코드를 작성하는 방식을 학습했습니다.
@@ -66,9 +69,9 @@ woo4735@naver.com
 
 - Component, Auto Layout 등 여러가지 기능들을 활용하여 사용자의 편의를 고려한 앱 UI/UX 디자인을 한 경험이 있습니다.
 
-### Git&Github
+### Git & Github & Gitlab
 
-- Git과 Github를 활용한 소스코드 버전 관리 및 협업을 진행하였으며, 팀 프로젝트의 협업 과정에서 발생하는 여러가지 문제들을 해결한 경험이 있습니다.
+- Git과 Github, Gitlab를 활용한 소스코드 버전 관리 및 협업을 진행하였으며, 팀 프로젝트의 협업 과정에서 발생하는 여러가지 문제들을 해결한 경험이 있습니다.
 
 ### Notion & Discord
 
@@ -79,8 +82,9 @@ woo4735@naver.com
 - 팀 프로젝트를 진행함에 있어 소통을 위한 다양한 커뮤니티 툴을 사용해본 경험이 있습니다.
 
 ---
-## 💻 Work Experience.
-- 민트기술(주) *2023.03 ~*
+# 💻 Work Experience.
+
+## 민트기술(주) *2023.03 ~ 2023.12*
 
 ### 펀딩 플레이(Funding Play)
 
@@ -112,6 +116,15 @@ woo4735@naver.com
 - Kotlin Compose를 활용한 Android 앱 개발
 - MVI 패턴을 활용하여 개발
 
+## 카카오 *2024.01.02 ~ 2023.02.29*
+
+### 누가 그린 기린 그림?
+
+*Karlo AI를 활용한 유아용 그림 퀴즈 어플리케이션*
+
+- Kotlin Compose와 XML-Layout을 혼합하여 앱 개발
+- MVI 패턴을 활용했으며, Multi-module 구조로 Clean Architecture 구현
+
 ---
 ## 🏆 Awards.
 
@@ -129,4 +142,4 @@ woo4735@naver.com
 
 **중앙대학교 소프트웨어학부**
 
-2018.03 ~ 재학 중 (2024.02 졸업예정)
+2018.03 ~ 2024.02
