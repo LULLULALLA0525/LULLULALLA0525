@@ -1,20 +1,17 @@
 # 김태우 / Woonie
 
-`Android Developer`
+### Android Developer
 
-### 혼자보다 함께일 때 더 빛나는 개발자</br>
-
-개인으로서의 능력도 물론 중요하지만, 소속된 **팀의 결합력을 높여** 한계를 극복합니다.</br>
+**`혼자보다 함께일 때 더 빛나는 개발자`**
+>개인으로서의 능력도 물론 중요하지만, 소속된 **팀의 결합력을 높여** 한계를 극복합니다.<br>
 **다른 환경**의 사람들과 **같은 목표**를 향해 나아갈 수 있는 폭넓은 이해관계를 배우고 있습니다.
 
-### 사용자 경험을 고민하는 개발자</br>
-
-“제품을 보고, 사용 설명서 없이 사용할 수 있다면, 그 안에는 정말 많은 사람의 고민이 들어있는 것이다.” - 도널드 노먼</br>
+**`사용자 경험을 고민하는 개발자`**
+>“제품을 보고, 사용 설명서 없이 사용할 수 있다면, 그 안에는 정말 많은 사람의 고민이 들어있는 것이다.” - 도널드 노먼<br>
 사용자 경험 향상 방안을 **끊임없이 고민**하여 서비스를 더욱 **매력적**으로 보일 수 있게 합니다.
 
-### 언제든지 배울 준비가 되어있는 개발자</br>
-
-안드로이드 **개발 트렌드**를 기민하게 따라가는 **패스트 팔로워**</br>
+**`언제든지 배울 준비가 되어있는 개발자`**
+>안드로이드 **개발 트렌드**를 기민하게 따라가는 **패스트 팔로워**<br>
 끊임없이 발전하는 기술에 맞춰 발빠르게 학습하고, **지속적으로 서비스를 개선**합니다.
 
 
@@ -27,7 +24,7 @@
 
 ## 📒 Projects.
 
-**누가 그린 기린 그림?** <sub>Android 개발&화면 설계 및 디자인 - *2024.01.03 ~ 2024.02.29*</sub></br>
+**누가 그린 기린 그림?** <sub>Android 개발&화면 설계 및 디자인 - *2024.01.03 ~ 2024.02.29*</sub><br>
 <sub>`Android` `Kotlin` `Jetpack Compose` `View System(XML)` `MVI` `Clean Architecture`</sub>
 
 <table>
@@ -52,7 +49,7 @@
   </tbody>
 </table>
 
-**RMR** <sub>Android 개발&화면 설계 및 디자인 - *2023.06.13 ~ 2023.11.30*</sub></br>
+**RMR** <sub>Android 개발&화면 설계 및 디자인 - *2023.06.13 ~ 2023.11.30*</sub><br>
 <sub>`Android` `Kotlin` `Jetpack Compose` `MVI`</sub>
 
 <table>
@@ -67,11 +64,11 @@
   </tbody>
 </table>
 
-**THOME** <sub>Android 개발 *2023.08.02 ~ 2023.12.29*</sub></br>
+**THOME** <sub>Android 개발 *2023.08.02 ~ 2023.12.29*</sub><br>
 <sub>`Android` `Kotlin` `Jetpack Compose` `MVI`</sub>
-</br></br>
+<br><br>
 
-**제1회 점심메뉴 총선거** <sub>Android 개발&화면 설계 및 디자인 - *(1차)2022.11.10 ~ 2022.12.08*, *(2차)2024. 04. 06 ~ 개발 중*</sub></br>
+**제1회 점심메뉴 총선거** <sub>Android 개발&화면 설계 및 디자인 - *(1차)2022.11.10 ~ 2022.12.08*, *(2차)2024. 04. 06 ~ 개발 중*</sub><br>
 <sub>`Android` `Dart` `Flutter` `MVC` `Kotlin` `Jetpack Compose` `MVI` `Clean Architecture`</sub>
 
 <table>
@@ -81,14 +78,14 @@
         <a href="https://github.com/1stLunchVote/1stLunchVote_Flutter_Release">
           <img src="https://github.com/TAE-COLA/TAE-COLA/assets/69046742/a2495d94-d8fb-42da-bd0b-4c9c494f4732", height="24", width="24"/>
         </a>
-        </br>
+        <br>
         <sub>(Flutter)</sub>
       </td>
       <td>
         <a href="https://github.com/1stLunchVote/1stLunchVote_Android">
           <img src="https://github.com/TAE-COLA/TAE-COLA/assets/69046742/a2495d94-d8fb-42da-bd0b-4c9c494f4732", height="24", width="24"/>
         </a>
-        </br>
+        <br>
         <sub>(Kotlin)</sub>
       </td>
       <td>
@@ -105,7 +102,7 @@
   </tbody>
 </table>
 
-**푸름** <sub>Android 파트장 - *2022.12.08 ~ 2023.02.15*</sub></br>
+**푸름** <sub>Android 파트장 - *2022.12.08 ~ 2023.02.15*</sub><br>
 <sub>`Android` `Kotlin` `View System(XML)` `MVVM` `Clean Architecture` `Usage Stats` `App Event Stats` `Broadcast Receiver`</sub>
 
 <table>
@@ -125,7 +122,7 @@
   </tbody>
 </table>
 
-**한잔** <sub>Android 개발&화면 설계 및 디자인 - *2022.06.10 ~ 2022.12.09*</sub></br>
+**한잔** <sub>Android 개발&화면 설계 및 디자인 - *2022.06.10 ~ 2022.12.09*</sub><br>
 <sub>`Android` `Kotlin` `View System(XML)` `MVVM` `Clean Architecture`</sub>
 
 <table>
