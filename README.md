@@ -158,7 +158,7 @@
 
 ## 🏆 Awards.
 
-### UMC 앱 런칭 대회 대상 - [푸름](https://www.notion.so/7e2de1f42a304bd1a6f6a26930fd197e?pvs=21)
+**UMC 앱 런칭 대회 대상 - [`푸름`](https://github.com/Pureum-umc-app/Pureum-FE)**
 
 
 ## 👨🏻‍🎓 Education
