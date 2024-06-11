@@ -160,8 +160,9 @@
 
 ## 👨🏻‍🎓 Education
 
-**중앙대학교 소프트웨어학부** <sub>*2018.03 ~ 2024.02*</sub>
+**중앙대학교 소프트웨어학부** <sub>*2018.03 ~ 2024.02* `졸업`</sub>
 
+**천안고등학교** <sub>*2015.03 ~ 2018.02* `졸업`</sub>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTAE-COLA&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
